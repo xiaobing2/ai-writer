@@ -1,4 +1,8 @@
 {
-  // ESA Pages 静态资源目录
-  "assets": "dist"
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "assets": {
+    "directory": "dist",
+    "notFoundStrategy": "singlePageApplication"
+  }
 }
