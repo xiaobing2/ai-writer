@@ -1,0 +1,6 @@
+{
+  // ESA Pages 构建产物目录（Vite 默认输出 dist）
+  "assets": {
+    "path": "dist"
+  }
+}
